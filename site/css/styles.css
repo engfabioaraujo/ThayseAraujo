@@ -3,12 +3,12 @@
 
 body {
 	font-family: 'Open Sans', sans-serif;
-	font-size: 14px;
+	font-size: 15px;
 	line-height: 21px;
 	font-weight:400;
 	-webkit-font-smoothing: antialiased;
     font-smoothing: antialiased;
-	color: #777;
+	color: #b7b7b7;
 	background: #000;
 }
 h1, h2, h3, h4, h5, h6{
@@ -17,7 +17,7 @@ h1, h2, h3, h4, h5, h6{
 	font-weight: normal;
 	letter-spacing: 1px;
 }
-h1{font-size: 63px; line-height: 70px; padding: 0; margin: 0;}
+h1{font-size: 63px; line-height: 70px; padding: 0; margin: 1;}
 h5{font-size: 28px; line-height: 35px; padding: 0; margin: 0; color: #b7b7b7;}
 
 a {
@@ -50,8 +50,8 @@ a:hover {text-decoration:underline;}
 	float:left;
 	margin:40px;
 	position:absolute;
-	top:200px;
-	width:600px;
+	top:120px;
+	width:800px;
 	z-index:9999;
 	-webkit-font-smoothing:antialiased;
 }
